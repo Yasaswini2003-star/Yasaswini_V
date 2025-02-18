@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yasaswini2003-star
+- 👋 Hi, I’m @Yasaswini_V
 - 👀 I’m interested in being creative like pencil art, music.
-- 🌱 I’m currently learning BSC computer Science 
+- 🌱 BSC graduate.
 - 📫 You can reach me on Gmail yasaswinivishnubhatla@gmail.com
-- 👩🏻‍💼 Looking to work at a reputed company where I can use all my skills 
+- 👩🏻‍💼 Working as a Packaged App Development Associate at Accenture.
 
 <!---
 Yasaswini2003-star/Yasaswini2003-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
